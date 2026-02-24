@@ -104,7 +104,11 @@ const Hero = () => {
             >
               <div className="w-48 h-48 mb-6 relative">
                 <div className="w-full h-full bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
-                  <span className="text-4xl">✨</span>
+                  {/* <span className="text-4xl">✨</span> */}
+                  <img src="/cv/Pankaj_pic2.png" alt="" 
+                  height={80}
+                  width={40}
+                  className="rounded-full object-cover"/>
                 </div>
               </div>
               

@@ -1,3 +1,5 @@
+import { title } from "process"
+
 // Navigation items
 export const NAV_ITEMS = [
   { name: 'Home', href: '#home', icon: '🏠' },
@@ -10,12 +12,12 @@ export const NAV_ITEMS = [
 // Your personal information
 export const PERSONAL_INFO = {
   name: 'Pankaj Hanchate',
-  title: 'UI/UX Designer',
+  title: 'WEB Developer & UI/UX Designer',
   email: 'pankajhanchate@gmail.com',
   phone: '+91 8147662827',
   location: 'Hyderabad, India',
 //   about: 'Passionate UI/UX designer with 3+ years of experience creating beautiful and functional digital products. I specialize in user-centered design, design systems, and interactive prototypes.',
- about:'Iam a most handsome and Sexiest person in Hyderabad',
+ about:'I’m a passionate WEB Developer & UI/UX Designer with over 3 years of experience creating engaging, user-centered digital experiences. I specialize in turning ideas into visually stunning and fully functional websites using Figma, HTML, CSS, WordPress, and Webflow.',
  cvUrl:'/cv/PANKAJ 2026 CV.pdf',
  cvFileName:'PANKAJ 2026 CV'
 }
@@ -25,7 +27,7 @@ export const SOCIAL_LINKS = [
   { name: 'LinkedIn', url: 'https://www.linkedin.com/in/pankaj-hanchate-982991236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app', icon: 'LinkedIn' },
   { name: 'GitHub', url: 'https://github.com/Pankajhanchate', icon: 'GitHub' },
   { name: 'Dribbble', url: 'https://dribbble.com/yourprofile', icon: 'Dribbble' },
-  { name: 'Twitter', url: 'https://twitter.com/yourhandle', icon: 'Twitter' },
+  { name: 'Instagram', url: 'https://www.instagram.com/the_crazyy_coder?igsh=bTV4cjN3MnYxbTZl', icon: 'Instagram' },
   { name: 'Behance', url: 'https://www.behance.net/pankajhanchate', icon: 'Behance' },
 ]
 
